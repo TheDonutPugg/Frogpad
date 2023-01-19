@@ -1,0 +1,4 @@
+This original version is a simple wired USB keypad made for writing equations in the MS word equation editor.
+it has 9 buttons, 3 of which are non-stanard on a regular keyboard. It has open Parentheses, closed parentheses, plus, minus,
+forward slash, asterisk, square root, superscript, and subscript. Though for the subscript key, a bind must be manually made in
+microsoft word. The whole thing is controlled by an arduino micro and the top piece is designed for cherry MX keyswitches.
